@@ -67,7 +67,7 @@ void properties(void)
     cout << "This chapter details the fundamental properties of Foo physics." << endl;
     cout << "Geometric Shapes - Key Terms" << endl << endl;
     cout << "Radius: a line segment from the center of any circular object to its outermost edge or boundary" << endl << endl;
-    cout << "Diameter: a line segment that passes through the center of a circle and its"
+    cout << "Diameter: a line segment that passes through the center of a circle, whose"
         "endpoints are on the circumference of the circle" << endl << endl;
     cout << "Circumference: the distance around the boundary of a circle" << endl << endl;
     cout << "Area: the total space taken up by a flat (2D) surface or object" << endl << endl;

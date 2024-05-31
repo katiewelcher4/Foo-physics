@@ -5,7 +5,4 @@ class Sphere
         //Default constructor
         Sphere();
         float getVolume(float inputRadius);
-
-    // private:
-    //     float radius;
 };
